@@ -84,4 +84,4 @@ WHERE
             INNER JOIN rental r ON i.inventory_id = r.inventory_id
     );
 
-![sql](https://github.com/gaming4funNel/sdb-homework-12-05/blob/main/img/sql5.png)
+![sql](https://github.com/gaming4funNel/sdb-homework-12-04/blob/main/img/sql5.png)
